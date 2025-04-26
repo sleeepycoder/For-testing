@@ -1,5 +1,4 @@
-function sum(a,b) {
-    return a+b;
-}
-console.log(sum(34,5));
-
+console.log("Hello");
+console.log("Priyanka")
+console.log("hi")
+consolw.log("Chandani")
