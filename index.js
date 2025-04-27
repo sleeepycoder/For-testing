@@ -1,4 +1,6 @@
-console.log("Hello");
-console.log("Priyanka")
-console.log("hi")
-consolw.log("Chandani")
+const add = (a,b) => {
+    return a+b;
+
+    console.log(5,5);
+    
+}
