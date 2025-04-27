@@ -7,4 +7,4 @@ console.log(add(10,4));
 function sub(a,b) {
     return a-b;
 }
-console.log(add(50,4));
+console.log(add(20,4));
