@@ -1,5 +1,4 @@
-function sum(a,b) {
+const add = (a,b) => {
     return a+b;
 }
-console.log(sum(34,5));
-
+console.log(add(5,5));
