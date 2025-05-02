@@ -13,4 +13,4 @@ console.log(sub(10,5));
 const Div = (a,b) => {
     return a+b;
 }
-console.log(sub(10,5));
+console.log(Div(10,5));
